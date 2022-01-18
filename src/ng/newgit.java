@@ -8,6 +8,8 @@ public class newgit {
 		System.out.print("I'm Ironman *snaps gauntlet*");
 		System.out.print("I'm Ironman *snaps gauntlet*");
 		System.out.print("I'm Ironman *snaps gauntlet*");
+		System.out.print("I'm Ironman *snaps gauntlet*");
+		System.out.print("I'm Ironman *snaps gauntlet*");
 
 	}
 
