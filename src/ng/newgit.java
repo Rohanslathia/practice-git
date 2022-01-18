@@ -6,6 +6,8 @@ public class newgit {
 		// TODO Auto-generated method stub
 		System.out.print("I'm Ironman *snaps gauntlet*");
 		System.out.print("I'm Ironman *snaps gauntlet*");
+		System.out.print("I'm Ironman *snaps gauntlet*");
+		System.out.print("I'm Ironman *snaps gauntlet*");
 
 	}
 
